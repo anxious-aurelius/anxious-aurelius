@@ -1,4 +1,4 @@
-# 👋 Hi, I'm anxious-aurelius
+# 👋 Hi, I'm Kripal
 
 ---
 
