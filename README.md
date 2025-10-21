@@ -1,4 +1,4 @@
-# 👋 Hi, I'm anxious-aurelius
+# 👋 Hi, I'm Kripal
 
 🎓 **Recent MSc Graduate in Advanced Computer Science**  
 🚀 **Ex-DevOps Engineer | Open to Work**
