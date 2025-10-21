@@ -1,15 +1,12 @@
-# 👋 Hi, I'm Kripal
-
-🎓 **Recent MSc Graduate in Advanced Computer Science**  
-🚀 **Ex-DevOps Engineer | Open to Work**
+# 👋 Hi, I'm anxious-aurelius
 
 ---
 
 ## 💡 About Me
 
-I'm a passionate tech enthusiast who just earned a master's degree in Advanced Computer Science. I have hands-on experience as a DevOps engineer and am now looking for exciting opportunities to make an impact with innovative teams.
+I'm a tech enthusiast based in the UK with a Master’s degree in Advanced Computer Science. I enjoy building reliable systems, automating workflows, and exploring cloud-native technologies. I like learning by doing — you'll often find me experimenting at the terminal or reading technical blogs.
 
-- 🔧 **Top Skills:**  
+- 🔧 Top Skills:  
   ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white)
   ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=white)
@@ -18,34 +15,23 @@ I'm a passionate tech enthusiast who just earned a master's degree in Advanced C
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-- 🧑‍💻 **Previously:** DevOps Engineer  
-- 📚 **Currently:** Job hunting, learning, and building new skills  
-- 🌍 **Location:** UK (open to relocate or work remotely)
+- 🌍 Location: United Kingdom
 
 ---
 
-## ⚡ Fun Facts & Interests
+## ⚡ Interests & Fun Facts
 
-- 📝 I love reading blogs about tech, productivity, and random curiosities.
-- 🖥️ You’ll often find me tinkering with the terminal for fun.
-- ⚽ Football fan, cyclist, and enjoyer of long beach walks.
-
----
-
-## ❓ Ask Me About
-
-- My journey into DevOps and cloud technologies
-- Tips for getting started with Python, AWS, or Docker
-- Fun Linux/terminal tricks
-- Anything tech, football, or cycling related!
+- 📝 Reading blogs about technology, productivity, and interesting problems  
+- 🖥️ Tinkering with the terminal and small automation projects  
+- ⚽ Football, cycling, and beach walks
 
 ---
 
 ## 🤝 Let's Chat
 
-- Working on something cool in DevOps, Python, or the cloud? Let's collaborate!
-- Have advice for breaking into tech roles in the UK? I’d love to hear from you.
-- Want to share your favorite tech blogs or productivity hacks?
+- Interested in collaborating on learning projects, tooling, or automation experiments  
+- Happy to exchange blog/article recommendations or discuss technical ideas  
+- Open to conversations about tech culture, workflows, and career growth
 
 ---
 
@@ -56,4 +42,4 @@ I'm a passionate tech enthusiast who just earned a master's degree in Advanced C
 
 ---
 
-> “Keep learning, keep building!”  
+> “Keep learning, keep building!”
