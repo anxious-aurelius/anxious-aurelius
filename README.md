@@ -4,7 +4,7 @@
 
 ## 💡 About Me
 
-I'm a tech enthusiast based in the UK with a Master’s degree in Advanced Computer Science. I enjoy building reliable systems, automating workflows, and exploring cloud-native technologies. I like learning by doing — you'll often find me experimenting at the terminal or reading technical blogs.
+I'm a tech enthusiast based in the UK with a Master’s degree in Advanced Computer Science. I enjoy building reliable systems, automating workflows, and exploring cloud-native technologies. I like learning by doing, you'll often find me experimenting at the terminal or reading technical blogs.
 
 - 🔧 Top Skills:  
   ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white)
